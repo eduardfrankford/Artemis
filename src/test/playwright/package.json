@@ -24,7 +24,7 @@
         "monocart-reporter": "2.13.1",
         "npm-check-updates": "23.1.0",
         "npm-run-all2": "9.0.3",
-        "simple-git": "3.36.0",
+        "simple-git": "4.0.1",
         "uuid": "14.0.2",
         "yauzl": "3.4.0"
     },
